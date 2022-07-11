@@ -1,0 +1,15 @@
+C:\Users\админ\Desktop\init\init1\bin\Debug\net6.0\init1.exe
+C:\Users\админ\Desktop\init\init1\bin\Debug\net6.0\init1.deps.json
+C:\Users\админ\Desktop\init\init1\bin\Debug\net6.0\init1.runtimeconfig.json
+C:\Users\админ\Desktop\init\init1\bin\Debug\net6.0\init1.dll
+C:\Users\админ\Desktop\init\init1\bin\Debug\net6.0\init1.pdb
+C:\Users\админ\Desktop\init\init1\obj\Debug\net6.0\init1.csproj.AssemblyReference.cache
+C:\Users\админ\Desktop\init\init1\obj\Debug\net6.0\init1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\админ\Desktop\init\init1\obj\Debug\net6.0\init1.AssemblyInfoInputs.cache
+C:\Users\админ\Desktop\init\init1\obj\Debug\net6.0\init1.AssemblyInfo.cs
+C:\Users\админ\Desktop\init\init1\obj\Debug\net6.0\init1.csproj.CoreCompileInputs.cache
+C:\Users\админ\Desktop\init\init1\obj\Debug\net6.0\init1.dll
+C:\Users\админ\Desktop\init\init1\obj\Debug\net6.0\refint\init1.dll
+C:\Users\админ\Desktop\init\init1\obj\Debug\net6.0\init1.pdb
+C:\Users\админ\Desktop\init\init1\obj\Debug\net6.0\init1.genruntimeconfig.cache
+C:\Users\админ\Desktop\init\init1\obj\Debug\net6.0\ref\init1.dll
